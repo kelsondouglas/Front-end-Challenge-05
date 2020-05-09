@@ -21,3 +21,5 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 
 **Have fun building!** 🚀
+
+LINK PARA ACESSAR O PROJETO: [ACESSE AQUI](https://front-end-challenge-05.kelsondouglas.now.sh/)
